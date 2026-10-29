@@ -117,3 +117,5 @@ app.listen(PORT, () => {
 });
 
 // http://localhost:8000/my-bookings/:email
+
+export default app;
